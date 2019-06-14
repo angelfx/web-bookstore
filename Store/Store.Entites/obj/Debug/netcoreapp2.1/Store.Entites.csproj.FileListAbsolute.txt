@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\bin\Debug\netcoreapp2.1\Store.Entites.deps.json
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\bin\Debug\netcoreapp2.1\Store.Entites.dll
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\bin\Debug\netcoreapp2.1\Store.Entites.pdb
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\obj\Debug\netcoreapp2.1\Store.Entites.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\obj\Debug\netcoreapp2.1\Store.Entites.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\obj\Debug\netcoreapp2.1\Store.Entites.AssemblyInfo.cs
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\obj\Debug\netcoreapp2.1\Store.Entites.dll
+C:\Users\user\source\repos\FindWork\Store\Store.Entites\obj\Debug\netcoreapp2.1\Store.Entites.pdb

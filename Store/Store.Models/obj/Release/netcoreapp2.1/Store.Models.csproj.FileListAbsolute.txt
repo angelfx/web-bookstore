@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\FindWork\Store\Store.Models\bin\Release\netcoreapp2.1\Store.Models.deps.json
+C:\Users\user\source\repos\FindWork\Store\Store.Models\bin\Release\netcoreapp2.1\Store.Models.dll
+C:\Users\user\source\repos\FindWork\Store\Store.Models\bin\Release\netcoreapp2.1\Store.Models.pdb
+C:\Users\user\source\repos\FindWork\Store\Store.Models\obj\Release\netcoreapp2.1\Store.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\Store\Store.Models\obj\Release\netcoreapp2.1\Store.Models.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FindWork\Store\Store.Models\obj\Release\netcoreapp2.1\Store.Models.AssemblyInfo.cs
+C:\Users\user\source\repos\FindWork\Store\Store.Models\obj\Release\netcoreapp2.1\Store.Models.dll
+C:\Users\user\source\repos\FindWork\Store\Store.Models\obj\Release\netcoreapp2.1\Store.Models.pdb

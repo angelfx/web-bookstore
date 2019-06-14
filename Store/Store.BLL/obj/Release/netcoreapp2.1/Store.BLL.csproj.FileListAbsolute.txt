@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.BLL.deps.json
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.BLL.dll
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.BLL.pdb
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.Abstract.dll
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.Entites.dll
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.Models.dll
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.Abstract.pdb
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.Entites.pdb
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\bin\Release\netcoreapp2.1\Store.Models.pdb
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\obj\Release\netcoreapp2.1\Store.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\obj\Release\netcoreapp2.1\Store.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\obj\Release\netcoreapp2.1\Store.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\obj\Release\netcoreapp2.1\Store.BLL.csproj.CopyComplete
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\obj\Release\netcoreapp2.1\Store.BLL.dll
+C:\Users\user\source\repos\FindWork\Store\Store.BLL\obj\Release\netcoreapp2.1\Store.BLL.pdb
